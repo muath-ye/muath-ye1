@@ -47,12 +47,12 @@ Here are some ideas to get you started:
   Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app` 
 --->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=muath-ye&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/muath-ye/github-readme-stats)
+[![Muath's github stats](https://github-readme-stats.vercel.app/api?username=muath-ye&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/muath-ye/github-readme-stats)
 
 <a href="https://github.com/muath-ye/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=muath-ye&repo=github-readme-stats&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/muath-ye/muath-ye.github.io">
+<a href="https://github.com/muath-ye/muath-cv">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=muath-ye&repo=muath-ye.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
