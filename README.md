@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <!-- [![Social banner for muath-ye](https://raw.githubusercontent.com/muath-ye/muath-ye/master/Developer%20activity-amico-min.png)](https://twitter.com/muathye) -->
 <a align='center' href='https://twitter.com/muathye'>
-    <img src='https://raw.githubusercontent.com/muath-ye/muath-ye/master/Developer%20activity-amico-min.png' />
+    <img height='128px' src='https://raw.githubusercontent.com/muath-ye/muath-ye/master/Developer%20activity-amico-min.png' />
 </a>
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
