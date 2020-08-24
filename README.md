@@ -14,7 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Languages and Tools:**  
+<!--- if you have forked this to use on your profile, Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` --->
+
+<!-- ![Muath's github stats](https://github-readme-stats.vercel.app/api?username=muath-ye&show_icons=true&theme=radical) -->
+
+<!-- [![Social banner for muath-ye](https://raw.githubusercontent.com/muath-ye/muath-ye/master/Developer%20activity-amico-min.png)](https://twitter.com/muathye) -->
+<a align='center' href='https://twitter.com/muathye'>
+    <p align="center">
+        <img height='256px' src='https://raw.githubusercontent.com/muath-ye/muath-ye/master/Developer%20activity-amico-min.png' />
+    </p>
+</a>
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Muath.
+</p>
+<p align='center'>For enquiries, mail me <a href="mailto:muath.ye@gmail.com">muathye@gmail.com</a> or over on <a href="https://twitter.com/muathye">Twitter</a>.</p>
+
+<h1 align='center'><i>Stay awesome! and take a look at my resume</i></h1>
+
+_Languages and Tools:_
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -35,23 +53,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="20" src="https://repository-images.githubusercontent.com/31792824/fb7e5700-6ccc-11e9-83fe-f602e1e1a9f1"></code>
 
-<!--- if you have forked this to use on your profile, Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` --->
-
-<!-- ![Muath's github stats](https://github-readme-stats.vercel.app/api?username=muath-ye&show_icons=true&theme=radical) -->
-
-<!-- [![Social banner for muath-ye](https://raw.githubusercontent.com/muath-ye/muath-ye/master/Developer%20activity-amico-min.png)](https://twitter.com/muathye) -->
-<a align='center' href='https://twitter.com/muathye'>
-    <p align="center">
-        <img height='256px' src='https://raw.githubusercontent.com/muath-ye/muath-ye/master/Developer%20activity-amico-min.png' />
-    </p>
-</a>
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Muath.
-</p>
-<p align='center'>For enquiries, mail me muathye@gmail.com or over on <a href="https://twitter.com/muathye">Twitter</a>.</p>
-
-<h1 align='center'><i>Stay awesome! and take a look at my resume</i></h1>
 
 ```php
 <?php
