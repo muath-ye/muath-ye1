@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <!-- ![Muath's github stats](https://github-readme-stats.vercel.app/api?username=muath-ye&show_icons=true&theme=radical) -->
 
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://twitter.com/muathye)
+[![Social banner for jh3y](https://github.com/muath-ye/muath-ye/raw/master/Developer activity-amico-min.png)](https://twitter.com/muathye)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Muath.
