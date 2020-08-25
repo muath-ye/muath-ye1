@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 <p align='center'>
 I'm Muath.
 </p>
-<p align='center'>For enquiries, mail me <a href="mailto:muath.ye@gmail.com">muathye@gmail.com</a> or over on <a href="https://twitter.com/muathye">Twitter</a>.</p>
+<p align='center'>For enquiries, contact me at <a href="mailto:muath.ye@gmail.com">muath.ye@gmail.com</a> or over on <a href="https://twitter.com/muathye">Twitter</a>.</p>
 
-<h1 align='center'><i>Stay awesome! and take a look at my <a href="https://muath-ye.github.io/Muathye-cv/index.html">resume</a> or ```php version``` resume</i></h1>
-<p align='center'>Don't forget to download your copy of my <a href="https://github.com/muath-ye/Muathye-cv/raw/master/docs/muathye-cv.pdf">resume</a></p>
+<h1 align='center'><i>Stay tuned! and take a look at my <a href="https://muath-ye.github.io/Muathye-cv/index.html">resume</a> or have fun with php version down</i></h1>
+<p align='center'>Don't forget to download your copy of my <a href="https://github.com/muath-ye/Muathye-cv/raw/master/docs/muathye-cv.pdf">resume</a>.</p>
+
 _Languages and Tools:_
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -58,8 +59,9 @@ _Languages and Tools:_
 <?php
 /**
  * Muath Ahmed Assawadi
- * +967777643646
  * muathye@gmail.com
+ * +967777643646
+ * @muathye
  * https://github/muath-ye
  */
 namespace Muath;
@@ -127,7 +129,7 @@ class Resume
             "Qualifier Address" => "Sana'a - Yemen",
         ]);
 
-        $courses[] = "And more courses, events and associations from April, 2011 till now.";
+        $courses[] = "And more courses, events and associations from April 2011 till now.";
 
         return $courses;
     }
