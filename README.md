@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 <p align='center'>
 I'm Muath.
 </p>
-<p align='center'>For enquiries, contact me at <a href="mailto:muath.ye@gmail.com">muath.ye@gmail.com</a> or over on <a href="https://twitter.com/muathye">Twitter</a>.</p>
+<h6 align='center'>Don't forget to download your copy of my <a href="https://github.com/muath-ye/Muathye-cv/raw/master/docs/muathye-cv.pdf">resume</a>.</h6>
+
 
 <h4 align='center'><i>Stay tuned! and take a look at my <a href="https://muath-ye.github.io/Muathye-cv/index.html">resume</a> or have fun with php version down</i></h4>
-<h6 align='center'>Don't forget to download your copy of my <a href="https://github.com/muath-ye/Muathye-cv/raw/master/docs/muathye-cv.pdf">resume</a>.</h6>
+<h5 align='center'>For enquiries, contact me at <a href="mailto:muath.ye@gmail.com">muath.ye@gmail.com</a> or over on <a href="https://twitter.com/muathye">Twitter</a>.</h5>
 
 _Languages and Tools:_
 
