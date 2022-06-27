@@ -31,6 +31,8 @@ I'm Muath.
 <h6 align='center'>Stay tuned at my <a target="_blank" href="https://muath-ye.github.io/">resume</a> and don't forget to <a href="https://github.com/muath-ye/Muathye-cv/raw/master/docs/muathye-cv.pdf">download</a> your copy.</h6>
 <h5 align='center'>For enquiries, contact me at <a href="mailto:muath.ye@gmail.com">muath.ye@gmail.com</a> or over on <a href="https://twitter.com/muathye">Twitter</a>.</h5>
 
+![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=muath-ye&repo=muath-ye)
+
 _Languages and Tools:_
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
