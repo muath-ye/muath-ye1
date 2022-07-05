@@ -1,3 +1,11 @@
+<div align='center'>
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=muath-ye&fontSize=50) -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header)
+
+ </div>
+ 
 <a align='center' href='https://twitter.com/muathye'>
     <p align="center">
         <img height='256px' src='https://raw.githubusercontent.com/muath-ye/muath-ye/master/muathye.png' />
