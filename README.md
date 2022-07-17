@@ -19,5 +19,5 @@ I'm Muath.
 
 <div align='center' style="display: flex;justify-content: center;">
 <img height='28'  src="https://camo.githubusercontent.com/44f28101d7497ced91d960ce483606ecb09d757dddf3f857a71f615a6703a007/687474703a2f2f657374727579662d6769746875622e617a75726577656273697465732e6e65742f6170692f56697369746f724869743f757365723d6d756174682d7965267265706f3d6d756174682d7965" />
-<a align='center' href="https://wakatime.com/@caa98403-bf58-4655-a14f-0e8425d6225b"><img src="https://wakatime.com/badge/user/caa98403-bf58-4655-a14f-0e8425d6225b.svg?style=for-the-badge" alt="Total time coded since May 26 2022" /></a>
+<!-- <a align='center' href="https://wakatime.com/@caa98403-bf58-4655-a14f-0e8425d6225b"><img src="https://wakatime.com/badge/user/caa98403-bf58-4655-a14f-0e8425d6225b.svg?style=for-the-badge" alt="Total time coded since May 26 2022" /></a> -->
 </div>
